@@ -2,8 +2,8 @@ import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import { Box } from '@mui/material';
 import Navbar from './components/Navbar';
-import Home from './components/Home';
-import ExerciseDetail from './components/ExerciseDetail';
+import Home from './pages/Home';
+import ExerciseDetail from './pages/ExerciseDetail';
 import Footer from './components/Footer';
 
 import './App.css';
