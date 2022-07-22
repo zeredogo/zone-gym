@@ -20,7 +20,7 @@ const SearchExercises = () => {
         fontSize: { lg: '44px', xs: '30px' }
       }} mb="50px" textAlign='center'>
         Awesome Exercises You <br/>
-        Should Know.
+        Should Know
       </Typography>
       <Box position="relative" mb="72px">
         <TextField
