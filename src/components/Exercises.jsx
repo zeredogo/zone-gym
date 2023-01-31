@@ -9,7 +9,8 @@ const Exercises = () => {
       </p>
       <small>Make up your Mind and work on what
         i want to archive with a clean heart.
-        but what is the problem with my github why is it 
+        but what is the problem with my github why is it
+        misbehaving why don't it want to work 
       </small>
     </div>
   )
