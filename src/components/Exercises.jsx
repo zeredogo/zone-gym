@@ -9,7 +9,7 @@ const Exercises = () => {
       </p>
       <small>Make up your Mind and work on what
         i want to archive with a clean heart.
-        but what is the 
+        but what is the problem with my 
       </small>
     </div>
   )
