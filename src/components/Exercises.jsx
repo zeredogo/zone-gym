@@ -11,7 +11,7 @@ const Exercises = () => {
          it is fine every thing will work out accordingly
       </p>
       <small>Make up your Mind and work on what
-        i want to archive with a clean heart.
+        i want to archive with a clean heart. exacle 
         but what is the problem with my github why is it
         misbehaving please diret me why don't it want to work but i know 
         it will work eventually but i need clues
