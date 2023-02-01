@@ -5,7 +5,8 @@ const Exercises = () => {
     <div>
       <h1>Paul Sunday Dogo</h1>
       <p>what is your plan for the future,
-         or do i have and issue organizing my life 
+         or do i have and issue organizing my life
+         whats suppose to happen 
       </p>
       <small>Make up your Mind and work on what
         i want to archive with a clean heart.
