@@ -7,7 +7,7 @@ const Exercises = () => {
       <p>what is your plan for the future,
          or do i have and issue organizing my life
          whats am i  suppose to  do in this 
-         kind of situation but how
+         kind of situation but how cant i do 
       </p>
       <small>Make up your Mind and work on what
         i want to archive with a clean heart.
