@@ -10,11 +10,11 @@ const Exercises = () => {
          kind of situation but how cant i do nice one
          it is fine every thing will work out accordingly
       </p>
-      <small>Make up your Mind and work on what
-        i want to archive with a clean heart. exacle 
-        but what is the problem with my github why is it
+      <small>Make up your Mind and work on what introduction
+        i want to archive with a clean heart. exacle everything
+        but what is the problem with my github why is it will 
         misbehaving please diret me why  don't it want to work but i know 
-        it will work eventually but i need clues please
+        it will work eventually but i need clues please going
         i am tired fa haba now is this how we are going to do
       </small>
     </div>
