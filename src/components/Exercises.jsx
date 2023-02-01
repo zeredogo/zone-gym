@@ -11,7 +11,7 @@ const Exercises = () => {
         i want to archive with a clean heart.
         but what is the problem with my github why is it
         misbehaving why don't it want to work but i know 
-        it will work eventually 
+        it will work eventually but i need clues
       </small>
     </div>
   )
