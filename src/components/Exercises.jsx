@@ -15,7 +15,7 @@ const Exercises = () => {
         but what is the problem with my github why is it
         misbehaving please diret me why  don't it want to work but i know 
         it will work eventually but i need clues please
-        i am tired fa
+        i am tired fa haba now
       </small>
     </div>
   )
