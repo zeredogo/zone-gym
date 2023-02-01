@@ -4,8 +4,8 @@ const Exercises = () => {
   return (
     <div>
       <h1>Paul Sunday Dogo</h1>
-      <p>what is your plan for the future,
-         or do i have and issue organizing my life
+      <p>what is your plan for the future, meaningless
+         or do i have and issue organizing my life both
          whats am i  suppose to  do in this clear
          kind of situation but how cant i do nice one
          it is fine every thing will work out accordingly
