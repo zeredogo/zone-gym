@@ -8,7 +8,9 @@ const Footer = () => {
         ever work for me or what should i do in 
         this situation now abi a clue will come 
         by God grace.
+
       </h1>
+      <p>wow</p>
     </div>
   )
 }
