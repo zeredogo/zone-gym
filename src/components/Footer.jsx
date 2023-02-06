@@ -11,7 +11,8 @@ const Footer = () => {
 
       </h1>
       <p>wow nice one boy everything will be fine 
-        but i'm i sure about that, or is it <i class="i  fa-theater-masks    "></i> 
+        but i'm i sure about that, or is it that 
+        i just don't wan to ex 
       </p>
     </div>
   )
