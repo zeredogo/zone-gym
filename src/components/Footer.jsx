@@ -10,7 +10,7 @@ const Footer = () => {
         by God grace.
 
       </h1>
-      <p>wow nice one boy</p>
+      <p>wow nice one boy everything will be fine </p>
     </div>
   )
 }
