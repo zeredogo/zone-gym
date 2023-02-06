@@ -14,7 +14,8 @@ const Footer = () => {
         but i'm i sure about that, or is it that 
         i just don't want to explore my options
         <br/> Lord i need you,
-        Lord show me a sign to follow 
+        Lord show me a sign to follow please 
+        Lord i need you more help me Lord
       </p>
     </div>
   )
