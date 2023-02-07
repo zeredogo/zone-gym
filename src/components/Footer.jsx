@@ -17,6 +17,10 @@ const Footer = () => {
         Lord show me a sign to follow please 
         Lord i need you more help me Lord
       </p>
+      <div>
+        <h2></h2>
+      </div>
+    
     </div>
   )
 }
