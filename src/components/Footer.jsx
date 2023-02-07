@@ -20,7 +20,8 @@ const Footer = () => {
       <div>
         <h2>why am i here</h2>
         <p>
-          IS this what i want to do with  
+          IS this what i want to do with my life or 
+          do i have another plan
         </p>
       </div>
     
