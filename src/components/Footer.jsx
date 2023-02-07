@@ -18,7 +18,7 @@ const Footer = () => {
         Lord i need you more help me Lord
       </p>
       <div>
-        <h2></h2>
+        <h2>why am i here</h2>
       </div>
     
     </div>
