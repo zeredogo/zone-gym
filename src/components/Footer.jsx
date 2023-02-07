@@ -19,6 +19,9 @@ const Footer = () => {
       </p>
       <div>
         <h2>why am i here</h2>
+        <p>
+          IS this what i want to do with  
+        </p>
       </div>
     
     </div>
