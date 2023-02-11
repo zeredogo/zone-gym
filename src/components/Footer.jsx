@@ -29,8 +29,11 @@ const Footer = () => {
             well we will make it right?
           </p>
           <h3>
-            O
+            OK.
           </h3>
+          <p>
+            N
+          </p>
         </div>
       </div>
     
