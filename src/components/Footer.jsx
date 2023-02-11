@@ -32,7 +32,7 @@ const Footer = () => {
             OK.
           </h3>
           <p>
-            Never the less  I will keep 
+            Never the less  I will keep going my best 
           </p>
         </div>
       </div>
