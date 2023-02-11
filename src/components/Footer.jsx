@@ -25,7 +25,9 @@ const Footer = () => {
           but my God will not shame us 
         </p>
         <div>
-          
+          <p>
+            well
+          </p>
         </div>
       </div>
     
