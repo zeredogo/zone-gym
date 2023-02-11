@@ -26,7 +26,7 @@ const Footer = () => {
         </p>
         <div>
           <p>
-            well
+            well we will make
           </p>
         </div>
       </div>
