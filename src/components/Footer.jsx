@@ -24,6 +24,9 @@ const Footer = () => {
           do i have another plan or am i going blindle
           but my God will not shame us 
         </p>
+        <div>
+          
+        </div>
       </div>
     
     </div>
