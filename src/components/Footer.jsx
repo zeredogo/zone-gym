@@ -32,7 +32,7 @@ const Footer = () => {
             OK.
           </h3>
           <p>
-            N
+            Never 
           </p>
         </div>
       </div>
