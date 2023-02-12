@@ -16,6 +16,7 @@ const Footer = () => {
         <br/> Lord i need you,
         Lord show me a sign to follow please 
         Lord i need you more help me Lord go with me
+        <Hostle>man </Hostle>
       </p>
       <div>
         <h2>why am i here</h2>
