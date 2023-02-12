@@ -15,7 +15,7 @@ const Footer = () => {
         i just don't want to explore my options
         <br/> Lord i need you,
         Lord show me a sign to follow please 
-        Lord i need you more help me Lord
+        Lord i need you more help me Lord go with me
       </p>
       <div>
         <h2>why am i here</h2>
