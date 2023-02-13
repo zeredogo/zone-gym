@@ -34,7 +34,7 @@ const Footer = () => {
           Throne magnet  Story fix it all
         </nav>
         <p>
-          You can't keep doing this 
+          You can't keep doing this to your self 
         </p>
         <div>
           <p>
