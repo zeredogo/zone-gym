@@ -31,7 +31,7 @@ const Footer = () => {
           but my God will not shame us 
         </p>
         <nav>
-          Throne magnet  Story fix 
+          Throne magnet  Story fix it all
         </nav>
         <div>
           <p>
