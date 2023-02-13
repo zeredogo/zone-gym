@@ -35,7 +35,7 @@ const Footer = () => {
         </nav>
         <p>
           You can't keep doing this to your self or are you enjoy
-          your current condition on 
+          your current condition on cash tor?
         </p>
         <div>
           <p>
