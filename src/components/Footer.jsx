@@ -30,6 +30,9 @@ const Footer = () => {
           do i have another plan or am i going blindle
           but my God will not shame us 
         </p>
+        <nav>
+          Throne magnet 
+        </nav>
         <div>
           <p>
             well we will make it right?
