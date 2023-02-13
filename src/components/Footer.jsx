@@ -33,6 +33,9 @@ const Footer = () => {
         <nav>
           Throne magnet  Story fix it all
         </nav>
+        <p>
+          You
+        </p>
         <div>
           <p>
             well we will make it right?
