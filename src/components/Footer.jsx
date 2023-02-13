@@ -20,7 +20,7 @@ const Footer = () => {
           man kind goes where you are will i do this things now 
           but may the Lord  help me with this hot link kilfa-li
           dose yield  loose guard university school just return 
-          till wield made here
+          till wield made here kill give quade vite vide 
         </Hostle>
       </p>
       <div>
