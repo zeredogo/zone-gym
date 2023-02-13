@@ -18,7 +18,7 @@ const Footer = () => {
         Lord i need you more help me Lord go with me
         <Hostle>
           man kind goes where you are will i do this things now 
-          but may the Lord 
+          but may the Lord  help me with this 
         </Hostle>
       </p>
       <div>
