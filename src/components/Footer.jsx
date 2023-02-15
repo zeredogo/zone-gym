@@ -30,7 +30,7 @@ const Footer = () => {
           do i have another plan or am i going blindle
           but my God will not shame us stephenie will
           make water come out of your body it seems you
-          have alot of that for me to explore 
+          have alot of that for me to explore  and bring it out 
         </p>
         <nav>
           Throne magnet  Story fix it all
