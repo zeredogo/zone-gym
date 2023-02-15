@@ -36,6 +36,7 @@ const Footer = () => {
         <p>
           You can't keep doing this to your self or are you enjoy
           your current condition on cash tor?
+          Food Just 
         </p>
         <div>
           <p>
