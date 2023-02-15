@@ -29,7 +29,7 @@ const Footer = () => {
           IS this what i want to do with my life or 
           do i have another plan or am i going blindle
           but my God will not shame us stephenie will
-          make water 
+          make water come out of your 
         </p>
         <nav>
           Throne magnet  Story fix it all
