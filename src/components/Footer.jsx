@@ -36,11 +36,12 @@ const Footer = () => {
           Throne magnet  Story fix it all
         </nav>
         <p>
-          You can't keep doing this to your self or are you enjoy
-          your current condition on cash tor? dogle snap i will eat that
-          Food Just the time will come that i will scarter that particular 
-          of her with out remorse and messilessly nice body   good with 
+          You can't keep doing this to your self or are you enjoy like this
+          your current condition on cash tor? dogle snap i will eat that girl
+          Food Just the time will come that i will scarter that particular will 
+          of her with out remorse and messilessly nice body good with it seems
           e clear eat that how yield universal <i class="fas fa-skull    "></i>
+          de
         </p>
         <div>
           <p>
