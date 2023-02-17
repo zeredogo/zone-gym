@@ -41,7 +41,7 @@ const Footer = () => {
           Food Just the time will come that i will scarter that particular will 
           of her with out remorse and messilessly nice body good with it seems
           e clear eat that how yield universal <i class="fas fa-skull    "></i>
-          de
+          deliever me from always thinking
         </p>
         <div>
           <p>
