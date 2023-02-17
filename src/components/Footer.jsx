@@ -38,7 +38,7 @@ const Footer = () => {
         <p>
           You can't keep doing this to your self or are you enjoy
           your current condition on cash tor? dogle snap 
-          Food Just the time will come  good with eat that how yield universal <i class="fas fa-skull    "></i>
+          Food Just the time will come that i will scarter that good with eat that how yield universal <i class="fas fa-skull    "></i>
         </p>
         <div>
           <p>
