@@ -42,7 +42,8 @@ const Footer = () => {
           of her with out remorse and messilessly nice body good with it seems
           e clear eat that how yield universal <i class="fas fa-skull    "></i>
           deliever me from always thinking of nacking because she will fill in 
-          the space those others refuse to fill and because she is new 
+          the space those others refuse to fill and because she is new i will 
+          do my best to enjoy every drop of my sp in her 
         </p>
         <div>
           <p>
