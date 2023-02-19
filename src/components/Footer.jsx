@@ -55,7 +55,7 @@ const Footer = () => {
           <p>
             Never the less  I will keep doing my best.
             i wiil do the right thing but anyhow it goas 
-             i will s
+             i will survive 
           </p>
         </div>
       </div>
