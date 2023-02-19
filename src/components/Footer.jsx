@@ -56,7 +56,7 @@ const Footer = () => {
             Never the less  I will keep doing my best.
             i wiil do the right thing but anyhow it goas 
              i will survive this stuff but i need to work 
-             extra 
+             extra hard to get 
           </p>
         </div>
       </div>
