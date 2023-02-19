@@ -54,7 +54,7 @@ const Footer = () => {
           </h3>
           <p>
             Never the less  I will keep doing my best.
-            i wiil do the right
+            i wiil do the right thing 
           </p>
         </div>
       </div>
