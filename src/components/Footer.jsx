@@ -57,7 +57,7 @@ const Footer = () => {
             i wiil do the right thing but anyhow it goas 
             i will survive this stuff but i need to work 
             extra hard to get what i really wan't and every 
-            thing will  
+            thing will workout by
           </p>
         </div>
       </div>
