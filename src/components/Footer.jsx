@@ -53,7 +53,8 @@ const Footer = () => {
             OK.
           </h3>
           <p>
-            Never the less  I will keep going my best 
+            Never the less  I will keep doing my best.
+            i wiil do the right
           </p>
         </div>
       </div>
