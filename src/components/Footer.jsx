@@ -47,7 +47,7 @@ const Footer = () => {
           i throughly  enjoy my self that day it has been 
           a long time since i had this king of pleasure or 
           have a good time the way i want it with the force i give 
-          yes
+          yes should i try it 
         </p>
         <div>
           <p>
