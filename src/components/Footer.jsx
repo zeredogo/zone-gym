@@ -45,7 +45,7 @@ const Footer = () => {
           the space those others refuse to fill and because she is new i will 
           do my best to enjoy every drop of my sweat in her
           i throughly  enjoy my self that day it has been 
-          a run
+          a long time 
         </p>
         <div>
           <p>
