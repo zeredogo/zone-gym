@@ -46,7 +46,7 @@ const Footer = () => {
           do my best to enjoy every drop of my sweat in her
           i throughly  enjoy my self that day it has been 
           a long time since i had this king of pleasure or 
-          have a good time 
+          have a good time the way i want it 
         </p>
         <div>
           <p>
