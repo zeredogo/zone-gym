@@ -48,7 +48,7 @@ const Footer = () => {
           a long time since i had this king of pleasure or 
           have a good time the way i want it with the force i give 
           yes should i try it again or should i just let sleeping Dog 
-          lay or should i continue  
+          lay or should i continue  my small expariement with 
         </p>
         <div>
           <p>
