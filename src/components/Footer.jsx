@@ -49,7 +49,7 @@ const Footer = () => {
           have a good time the way i want it with the force i give 
           yes should i try it again or should i just let sleeping Dog 
           lay or should i continue  my small expariement with this project 
-          i am  
+          i am  on because i really enjoy my self 
         </p>
         <div>
           <p>
