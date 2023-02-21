@@ -50,7 +50,7 @@ const Footer = () => {
           yes should i try it again or should i just let sleeping Dog 
           lay or should i continue  my small expariement with this project 
           i am  on because i really enjoy my self and the project is ready to 
-          recieve what i can give 
+          recieve what i can give they project 
         </p>
         <div>
           <p>
