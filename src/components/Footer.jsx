@@ -67,7 +67,7 @@ const Footer = () => {
             thing will workout by God Grace we or should i 
             i say i shall make  in this life by Baba God <Grace>
               nice 
-              Lord Please i need 
+              Lord Please i need a sign please show 
             </Grace>
           </p>
         </div>
