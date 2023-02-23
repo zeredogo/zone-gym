@@ -66,7 +66,7 @@ const Footer = () => {
             extra hard to get what i really wan't and every 
             thing will workout by God Grace we or should i 
             i say i shall make  in this life by Baba God <Grace>
-              nice 
+              nice i don't really know
               Lord Please i need a sign please show the way 
               or am i playing with the way i have please 
               Lord show me confirm yeah nah so i go dey here
