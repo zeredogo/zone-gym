@@ -69,7 +69,7 @@ const Footer = () => {
               nice 
               Lord Please i need a sign please show the way 
               or am i playing with the way i have please 
-              Lord show me
+              Lord show me confirm yeah 
             </Grace>
           </p>
         </div>
