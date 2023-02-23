@@ -65,7 +65,9 @@ const Footer = () => {
             i will survive this stuff but i need to work 
             extra hard to get what i really wan't and every 
             thing will workout by God Grace we or should i 
-            i say i shall make  in this life by
+            i say i shall make  in this life by Baba God <Grace>
+              nice 
+            </Grace>
           </p>
         </div>
       </div>
