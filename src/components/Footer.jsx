@@ -68,7 +68,8 @@ const Footer = () => {
             i say i shall make  in this life by Baba God <Grace>
               nice 
               Lord Please i need a sign please show the way 
-              or am i playing with the the 
+              or am i playing with the way i have please 
+              Lord show me
             </Grace>
           </p>
         </div>
