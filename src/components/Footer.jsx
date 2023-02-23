@@ -64,7 +64,7 @@ const Footer = () => {
             i wiil do the right thing but anyhow it goas 
             i will survive this stuff but i need to work 
             extra hard to get what i really wan't and every 
-            thing will workout by God Grace.
+            thing will workout by God Grace we or should i 
           </p>
         </div>
       </div>
