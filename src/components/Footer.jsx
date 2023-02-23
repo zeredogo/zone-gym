@@ -57,7 +57,7 @@ const Footer = () => {
             well we will make it right?
           </p>
           <h3>
-            OK. what will  happen 
+            OK. what will  happen  or what 
           </h3>
           <p>
             Never the less  I will keep doing my best.
