@@ -69,7 +69,8 @@ const Footer = () => {
               nice 
               Lord Please i need a sign please show the way 
               or am i playing with the way i have please 
-              Lord show me confirm yeah 
+              Lord show me confirm yeah nah so i go dey here
+              tor  
             </Grace>
           </p>
         </div>
