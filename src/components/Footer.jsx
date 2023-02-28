@@ -79,7 +79,7 @@ const Footer = () => {
         <h1>What should i say here? </h1>
         <p>
           I ask my self what should i do in situation like 
-          this 
+          this what king of lead 
         </p>
       </div>
     
