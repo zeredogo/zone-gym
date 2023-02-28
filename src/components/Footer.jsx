@@ -80,7 +80,7 @@ const Footer = () => {
         <p>
           I ask my self what should i do in situation like 
           this what kind of lead should i follow i need a clue 
-          on this 
+          on this sha i dont 
         </p>
       </div>
     
