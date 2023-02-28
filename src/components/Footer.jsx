@@ -78,7 +78,7 @@ const Footer = () => {
       <div>
         <h1>What should i say here? </h1>
         <p>
-          I ask my self 
+          I ask my self what should i 
         </p>
       </div>
     
