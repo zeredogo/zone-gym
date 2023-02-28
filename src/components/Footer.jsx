@@ -79,7 +79,8 @@ const Footer = () => {
         <h1>What should i say here? </h1>
         <p>
           I ask my self what should i do in situation like 
-          this what kind of lead should i follow
+          this what kind of lead should i follow i need a clue 
+          on this 
         </p>
       </div>
     
