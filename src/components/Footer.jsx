@@ -82,6 +82,7 @@ const Footer = () => {
           this what kind of lead should i follow i need a clue 
           on this sha i dont know what to do  next but i am 
           slow my self down is this what i want  tor i don't even
+          know what i 
         </p>
       </div>
     
