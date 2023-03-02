@@ -83,7 +83,7 @@ const Footer = () => {
           on this sha i dont know what to do  next but i am 
           slow my self down is this what i want  tor i don't even
           know what i want tor no wahala i have to work harder 
-          to achieve my goal.
+          to achieve my goal, have what you 
           nice throughly okay now is like what save what
         </p>
       </div>
