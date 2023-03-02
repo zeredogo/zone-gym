@@ -86,7 +86,7 @@ const Footer = () => {
           to achieve my goal, have what you want tor i am just
           nice throughly okay now is like what save what do 
           nonsense tor what should i do is like i enjoy doing 
-          this i need to 
+          this i need to do 
         </p>
       </div>
     
