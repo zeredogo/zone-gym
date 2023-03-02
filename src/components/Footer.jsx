@@ -85,6 +85,7 @@ const Footer = () => {
           know what i want tor no wahala i have to work harder 
           to achieve my goal, have what you want tor i am just
           nice throughly okay now is like what save what do 
+          nonsense tor what should i do 
         </p>
       </div>
     
