@@ -88,7 +88,7 @@ const Footer = () => {
           nonsense tor what should i do is like i enjoy doing 
           this i need to do better is like i enjoy doing this 
           Abi hmm okay now anything you said what i'm i saying
-          abi suffer no the tired me no the 
+          abi suffer no the tired me e no the tired you  
         </p>
       </div>
     
