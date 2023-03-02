@@ -87,7 +87,7 @@ const Footer = () => {
           nice throughly okay now is like what save what do 
           nonsense tor what should i do is like i enjoy doing 
           this i need to do better is like i enjoy doing this 
-          Abi 
+          Abi hmm okay now anything you said
         </p>
       </div>
     
