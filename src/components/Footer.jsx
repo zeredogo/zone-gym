@@ -89,7 +89,7 @@ const Footer = () => {
           this i need to do better is like i enjoy doing this 
           Abi hmm okay now anything you said what i'm i saying
           abi suffer no the tired me e no the tired you  sha 
-          i will have to do better next time
+          i will have to do better next time due season
         </p>
       </div>
     
