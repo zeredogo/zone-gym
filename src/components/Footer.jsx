@@ -97,7 +97,8 @@ const Footer = () => {
         <h3>my Story</h3>
         <p>
           i was just on my own when my freind approach me with this 
-          very tempting deal
+          very tempting deal and because i'm at my least i cloud not 
+          have 
         </p>
       </div>
     
