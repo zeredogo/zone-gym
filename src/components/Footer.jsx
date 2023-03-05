@@ -103,7 +103,7 @@ const Footer = () => {
           come close to you now more than ever because the situation 
           would have escalate more than the way it is now but 
           Thank you Lord.
-          you are indeed a Great
+          you are indeed a Great GOD.
         </p>
       </div>
     
