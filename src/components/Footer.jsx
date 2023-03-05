@@ -99,7 +99,10 @@ const Footer = () => {
           i was just on my own when my freind approach me with this 
           very tempting deal and because i am at my least i cloud not 
           have resist it and now i bring shame to my name  now i have 
-          to carry it like a hook or yulk on my head but Lord
+          to carry it like a hook or yulk on my head but Lord i need to 
+          come close to you now more than ever because the situation 
+          would have escalate more than the way it is now but 
+          Thank you Lord  
         </p>
       </div>
     
