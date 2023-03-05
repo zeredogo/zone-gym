@@ -90,7 +90,7 @@ const Footer = () => {
           Abi hmm okay now anything you said what i'm i saying
           abi suffer no the tired me e no the tired you  sha 
           i will have to do better next time due season winter
-          rain i should  learn from this
+          rain i should  learn from this wow this is life 
         </p>
       </div>
     
