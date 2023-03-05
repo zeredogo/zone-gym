@@ -102,7 +102,8 @@ const Footer = () => {
           to carry it like a hook or yulk on my head but Lord i need to 
           come close to you now more than ever because the situation 
           would have escalate more than the way it is now but 
-          Thank you Lord  
+          Thank you Lord.
+          you are indeed a Great
         </p>
       </div>
     
