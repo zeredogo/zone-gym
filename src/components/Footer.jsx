@@ -91,7 +91,8 @@ const Footer = () => {
           abi suffer no the tired me e no the tired you  sha 
           i will have to do better next time due season winter
           rain i should  learn from this wow this is life okay 
-          now this is a great lesson  but 
+          now this is a great lesson  but what is the lesson i 
+          l
         </p>
       </div>
     
