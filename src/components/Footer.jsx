@@ -94,6 +94,11 @@ const Footer = () => {
           now this is a great lesson  but what is the lesson i 
           learn form all this.
         </p>
+        <h3>my Story</h3>
+        <p>
+          i was just on my own when my freind approach me with this 
+          very tempting deal
+        </p>
       </div>
     
     </div>
