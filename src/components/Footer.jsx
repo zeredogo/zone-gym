@@ -105,7 +105,7 @@ const Footer = () => {
           Thank you Lord.
           you are indeed a Great GOD.
           yes you are indeed a God you have clear road for me sevarary 
-          and Forgiving me always and am still sining Lord ThaNK 
+          and Forgiving me always and am still sining Lord ThaNK YOU 
         </p>
       </div>
     
