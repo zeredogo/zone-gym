@@ -104,7 +104,7 @@ const Footer = () => {
           would have escalate more than the way it is now but 
           Thank you Lord.
           you are indeed a Great GOD.
-          yes you are indeed a 
+          yes you are indeed a God you have clear 
         </p>
       </div>
     
