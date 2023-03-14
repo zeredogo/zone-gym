@@ -110,7 +110,7 @@ const Footer = () => {
           Lord i need you.
         </p>
         <p>
-          Paul Zere Sunday Adu Dogo yes continue doing
+          Paul Zere Sunday Adu Dogo yes continue what i 
         </p>
       </div>
     
