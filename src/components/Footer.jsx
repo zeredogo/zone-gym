@@ -111,7 +111,8 @@ const Footer = () => {
         </p>
         <p>
           Paul Zere Sunday Adu Dogo yes continue what i think is good 
-          but the true is that i don't know what to do next time 
+          but the true is that i don't know what to do next time i need 
+          to work
         </p>
       </div>
     
