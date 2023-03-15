@@ -112,7 +112,7 @@ const Footer = () => {
         <p>
           Paul Zere Sunday Adu Dogo yes continue what i think is good 
           but the true is that i don't know what to do next time i need 
-          to work my self up
+          to work my self up like very hard
         </p>
       </div>
     
