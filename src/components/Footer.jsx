@@ -114,7 +114,7 @@ const Footer = () => {
           but the true is that i don't know what to do next time i need 
           to work my self up like very hard asin very hard and i need 
           to set objective in my life and i should work very hard to
-          acheive it 
+          acheive it this should not be my life 
         </p>
       </div>
     
