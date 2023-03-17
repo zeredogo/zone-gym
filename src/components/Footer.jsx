@@ -119,6 +119,7 @@ const Footer = () => {
           work and reach my goal Lord i need to have a stable Life i 
           have to set marks on anything i am doing and work very hard 
           to reach my goals because i am not doing anything too earn more 
+          what should i do next 
         </p>
       </div>
     
