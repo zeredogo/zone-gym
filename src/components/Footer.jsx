@@ -120,7 +120,7 @@ const Footer = () => {
           have to set marks on anything i am doing and work very hard 
           to reach my goals because i am not doing anything too earn more 
           what should i do next to start going forward okay now .
-          <Lord>I Need You In My </Lord>
+          <Lord>I Need You In My Life </Lord>
         </p>
       </div>
     
