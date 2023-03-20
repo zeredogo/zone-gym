@@ -122,6 +122,7 @@ const Footer = () => {
           what should i do next to start going forward okay now .
           <Lord>I Need You In My Life </Lord>
           Okay now nice we gather dey here but the time is now and now only.
+          tor what
         </p>
       </div>
     
