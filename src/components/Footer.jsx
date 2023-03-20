@@ -108,7 +108,7 @@ const Footer = () => {
           and Forgiving me always and am still sining Lord ThaNK YOU Lord
           okay nice confirm Lord help me to conqua this and fill me 
           Lord i need you. okay now i  need to work supper hard i have to
-          take more risk
+          take more risk can i solve the 
         </p>
         <p>
           Paul Zere Sunday Adu Dogo yes continue what i think is good 
